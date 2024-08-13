@@ -1,6 +1,6 @@
-# wtf--the-built-in-browser- README
+# wtf--a-built-in-browser- README
 
-This is the README for your extension "wtf--the-built-in-browser-". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "wtf--a-built-in-browser-". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
